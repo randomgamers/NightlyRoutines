@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9b7b07083caa645ddb6a7eb3d546d9ad
+timeCreated: 1481556467
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - offSprite: {instanceID: 0}
+  - onSprite: {instanceID: 0}
+  - turnOnSound: {fileID: 8300000, guid: ce242a782b6d04621a686c3253e9c663, type: 3}
+  - mainSound: {instanceID: 0}
+  - turnOffSound: {fileID: 8300000, guid: 47f980c6328fd465eb71c09b7983d79d, type: 3}
+  - nowPlaying: {instanceID: 0}
+  - lightObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
